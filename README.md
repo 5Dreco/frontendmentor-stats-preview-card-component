@@ -51,6 +51,6 @@ Will do more of these challenges to improve my skills.
 
 ## Author
 
-- Website - [Shiva Santosh Jana](https://santu369.github.io/FreeCodeCamp-PersonalPortfolioWebpage)
-- Frontend Mentor - [@santu369](https://www.frontendmentor.io/profile/santu369)
-- Twitter - [@santu69](https://www.twitter.com/santu69)
+- Website - [Dreco Shellz](https://5Dreco.github.io/FreeCodeCamp-PersonalPortfolioWebpage)
+- Frontend Mentor - [@5Dreco](https://www.frontendmentor.io/profile/5Dreco)
+- Twitter - [@150capo](https://www.twitter.com/150capo)
