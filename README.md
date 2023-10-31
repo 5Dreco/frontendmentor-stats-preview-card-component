@@ -33,8 +33,8 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/santu369/frontendmentor-stats-preview-card-component)
-- Live Site URL: [GitHub Pages Live URL](https://santu369.github.io/frontendmentor-stats-preview-card-component)
+- Solution URL: [Code on GitHub](https://github.com/5Dreco/frontendmentor-stats-preview-card-component)
+- Live Site URL: [GitHub Pages Live URL](https://5Dreco.github.io/frontendmentor-stats-preview-card-component)
 
 ## My process
 
